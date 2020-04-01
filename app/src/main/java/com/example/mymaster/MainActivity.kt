@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         // This is my first master commit through Interface
 
         // This my first branch commit
+
+        // This is branch one second commit
     }
 }
