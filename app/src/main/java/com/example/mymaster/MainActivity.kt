@@ -10,5 +10,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // This is my first master commit through Interface
+
+        // master one commit
+
+        // master two commit
+
+        // master three commit
     }
 }
