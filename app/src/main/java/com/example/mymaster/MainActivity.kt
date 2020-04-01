@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         // This my first branch commit
 
         // This is branch one second commit
+
+        // This branch one third commit
     }
 }
